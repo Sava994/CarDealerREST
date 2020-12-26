@@ -1,0 +1,36 @@
+[
+    {
+      "type": "CUSTOMER",
+      "username": "sava",
+      "first_name": "Sava",
+      "last_name": "Petrovic",
+      "email": "sava.petrovic@email.com",
+      "phone": "062267163",
+      "password_hash": "sava123",
+      "created_at": "2020-11-16T14:25:22Z",
+      "is_deleted": false
+    },
+    {
+      "type": "ADMIN",
+      "username": "malisa",
+      "first_name": "Malisa",
+      "last_name": "Petrovic",
+      "email": "malisa.malisic@email.com",
+      "phone": "12345",
+      "password_hash": "$2y$12$zF4E6by7OpXwt25UcHJWDOUkED2iVuP5b4TOQ9WnMMO72uXkS.GFu",
+      "created_at": "2020-06-22T19:44:10Z",
+      "is_deleted": false
+    },
+    {
+      "id": "5fe1b1d7fc13ae4c8f000063",
+      "type": "CUSTOMER",
+      "username": "marina",
+      "first_name": "Marina",
+      "last_name": "Nikic",
+      "email": "marina.nikic@email.com",
+      "phone": "066222333",
+      "password_hash": "$2y$12$lkkGiiX7vCzlFvBcdbVLgeDoMZxa9ZS3UJwYL4I77Qz1KAtv1yhLC",
+      "created_at": "2020-01-12T22:22:12Z",
+      "is_deleted": false
+    }
+  ]

@@ -1,0 +1,24 @@
+[{
+    "user_id":"5fe1b1d7fc13ae4c8f000063",
+    "location":{
+        "street":"454 Chive Way",
+        "city":"Sombor"
+        },
+    "vehicleCategory":"CAR",
+    "vehicleType":"Sedan",
+    "make":"Subaru",
+    "model":"Edge",
+    "travelled":452245,
+    "year_of_made":2009,
+    "fuelType":"DIESEL",
+    "price":192325,
+    "engine_capacity":1494,
+    "enginePower":117,
+    "gearType":"MANUAL",
+    "number_of_gears":6,
+    "is_damaged":false,
+    "powertrainType":"REAR_WHEEL_DRIVE",
+    "description":"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+    "created_at":"2017-02-02T22:36:14Z",
+    "images":["data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQTEhUSExMWFhUXFxgVFhYXGBgYFRgaFxUXFhgXFxgYHSggGBolHRcYITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFxAQGi0fHR0tLS0tLS0tLS0tLS0tLS0tLS0tLS0uLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMIBAwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAEAAIDBQYHAQj/xABGEAABAwIDBQUEBgcIAgIDAAABAgMRACEEEjEFQVFhcQYTIoGRMqGx8AcUUnLB0SNCYoKSsuEVM0NTosLS8YOTJHNEVGP/xAAZAQEBAQEBAQAAAAAAAAAAAAABAAIDBAX/xAAvEQEBAAIBAgMFCAIDAAAAAAAAAQIRAyExBBJRFEGBkaEFIjJCUmGx0RNTYnHh/9oADAMBAAIRAxEAPwD3D4tlX993yvvKsOgTAPpV1gMdhE2QUI4Ky5f4pF+tZvFgBPOq7sbg2sU460t1aFpK1lTihknPlSlFiYjjvHOvLyZY4YXLLtHeXq6ps1xlw/3qR92FJV0g1Li8OhuVoWFjekTmHMDT1rA43sY4nxNuIVwgx8KqlnGsmQtdv2s381efi8b4fkmsM5fo3cMp7nRkLg3V4VacPdpU2Axq2yoJkec+4iDXL0dq8SiQsA9QU/C3uo1ntzoVNX0MGQodDoa9U/Zm2OjYrbCnUFDhEcxEwd1telQd7OX7XQD41kcP2vw6vCSpKTcZknwnym1Hs7bachQcQVpMESJUOImtboaEOXUrhqJ/Kk1h1LEoSpV75Qbe+gG8SJUZtGusHgamw+JcT4WyQrW1reWtZl6oW8wtKwCDf7Qj3iKhQs+KRPOx+N6bjNouKKC5mibBVoOkx50MMRHeDh6mtAWHhkAm5PT3U9wyQnhrQZcnInjfS0V4VDxKBIGgg6mpCy5Jn9UVCVgyTv0GhqEzI0Ji4iAOZioQ9AniYKvwAF/"]
+}
