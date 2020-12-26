@@ -1,4 +1,4 @@
-Car dealer RESTful application.</br>
+<b>Car dealer RESTful application.</b></br>
 </br></br>
 To run this you will need to have MongoDB installed on your PC.</br>
 There are some hardcoded data for testing.</br>
