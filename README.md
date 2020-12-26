@@ -3,7 +3,7 @@
 To run this you will need to have MongoDB installed on your PC.</br>
 There are some hardcoded data for testing.</br>
 </br>
-POST /login with username and password in body you whill get jwt that will alst for 6h and after that you will be able to accsess other url's without need to use password and username aggain.</br>
+POST /login with username and password in body you will get jwt that will last for 6h so you can use jwt to accsess rest of app.</br>
 </br>
 For user there are:</br>
   <ul><li>GET api/users/all --return list of all users</br></li>
