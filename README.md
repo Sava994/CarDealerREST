@@ -5,7 +5,8 @@ There are some hardcoded data for testing.</br>
 </br>
 POST /login with username and password in body you whill get jwt that will alst for 6h and after that you will be able to accsess other url's without need to use password and username aggain.</br>
 </br>
-<ul>For user there are:</br>
+For user there are:</br>
+  <ul>
   <li>GET api/users/all --return list of all users</br></li>
   GET api/users/{id} -- return user by id</br>
   POST api/users/search/email -- return user by email (text: test@test.com)</br>
@@ -13,7 +14,7 @@ POST /login with username and password in body you whill get jwt that will alst 
   POST api/users/register -- create new user and save it in database </br>
   PUT api/users/update/data/{id} -- update users data (first_name,last_name,email,phone)</br>
   PUT api/users/update/password/{id} -- update users password (password_hash)</br>
-  DELETE api/users/delete/{id} -- delete user from database</br></ul
+  DELETE api/users/delete/{id} -- delete user from database</br></ul>
   </br>
 For stats there are:</br>
   GET api/stats/dashboard</br>
