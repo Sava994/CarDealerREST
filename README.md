@@ -6,7 +6,7 @@ There are some hardcoded data for testing.</br>
 POST /login with username and password in body you whill get jwt that will alst for 6h and after that you will be able to accsess other url's without need to use password and username aggain.</br>
 </br>
 For user there are:</br>
-  GET api/users/all --return list of all users</br>
+<space>GET api/users/all --return list of all users</br>
   GET api/users/{id} -- return user by id</br>
   POST api/users/search/email -- return user by email (text: test@test.com)</br>
   GET api/users/me -- get current user</br>
